@@ -16,7 +16,7 @@ In this lesson we'll introduce you to collection views.
 
 ## What Are Collection Views?
 
-_Collection views_ are one of the fundamental views that ship with Cocoa Touch and iOS. They provide a more flexible layout to present an ordered set of data items. Collection views are primarily used to present items in a gridlike arrangement but they are capable of much more. They are often used with apps that present a lot of data to the user. They are very similar to collection views but they allow for even more customization and can even scroll horizontally.
+_Collection views_ are one of the fundamental views that ship with Cocoa Touch and iOS. They provide a more flexible layout to present an ordered set of data items. Collection views are primarily used to present items in a gridlike arrangement but they are capable of much more. They are often used with apps that present a lot of data to the user. They are very similar to table views but they allow for even more customization and can even scroll horizontally.
 
 Collection views are made up of _cells_. Each cell represents a single piece of data in a larger data set. You can define how to draw a single cell, and the collection view will take care of the work of drawing many cells and scrolling them.
 
@@ -111,3 +111,5 @@ As an extra activity you should try changing the sizes of cells and the spacing 
 In future lessons, you'll see how to build your own iOS app powered by a collection view yourself. For now, though, you've hopefully gained insight on how collection views in iOS work.
 
 <a href='https://learn.co/lessons/collectionView' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-collectionView-readme'>Swift Collection View Readme</a> on Learn.co and start learning to code for free.</p>
